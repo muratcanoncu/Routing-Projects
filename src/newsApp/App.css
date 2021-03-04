@@ -36,6 +36,11 @@
     transform: rotate(360deg);
   }
 }
-a:hover {
+
+.linkButton {
   text-decoration: none !important;
+  color: white !important;
+}
+.linkButton:hover {
+  font-weight: bolder !important;
 }
