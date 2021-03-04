@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Routing-Projects/static/css/main.11f22edb.chunk.css",
+    "main.js": "/Routing-Projects/static/js/main.567c4efa.chunk.js",
+    "main.js.map": "/Routing-Projects/static/js/main.567c4efa.chunk.js.map",
+    "runtime-main.js": "/Routing-Projects/static/js/runtime-main.fee56d29.js",
+    "runtime-main.js.map": "/Routing-Projects/static/js/runtime-main.fee56d29.js.map",
+    "static/css/2.150d169a.chunk.css": "/Routing-Projects/static/css/2.150d169a.chunk.css",
+    "static/js/2.fc94fd60.chunk.js": "/Routing-Projects/static/js/2.fc94fd60.chunk.js",
+    "static/js/2.fc94fd60.chunk.js.map": "/Routing-Projects/static/js/2.fc94fd60.chunk.js.map",
+    "static/js/3.14b9f761.chunk.js": "/Routing-Projects/static/js/3.14b9f761.chunk.js",
+    "static/js/3.14b9f761.chunk.js.map": "/Routing-Projects/static/js/3.14b9f761.chunk.js.map",
+    "index.html": "/Routing-Projects/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Routing-Projects/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.11f22edb.chunk.css.map": "/Routing-Projects/static/css/main.11f22edb.chunk.css.map",
+    "static/js/2.fc94fd60.chunk.js.LICENSE.txt": "/Routing-Projects/static/js/2.fc94fd60.chunk.js.LICENSE.txt",
+    "static/js/main.567c4efa.chunk.js.LICENSE.txt": "/Routing-Projects/static/js/main.567c4efa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Routing-Projects/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fee56d29.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.fc94fd60.chunk.js",
+    "static/css/main.11f22edb.chunk.css",
+    "static/js/main.567c4efa.chunk.js"
+  ]
+}

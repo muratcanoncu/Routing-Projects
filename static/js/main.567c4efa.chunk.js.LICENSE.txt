@@ -1,0 +1,37 @@
+//!  Components
+
+//! 1-Fetch method way
+
+//! 2-Axios way
+
+//! Api
+
+//! Calling API always inside of "ComponentDidMount"
+
+//! Components
+
+//! Default Props(only inside the class component)------------------------
+
+//! Destructuring prop names---------------
+
+//! Image
+
+//! Last warning before removing stuff
+
+//! Projects
+
+//! PropTypes----------------------------------
+
+//! keywords have to be imported
+
+//! npm i axios and import axios
+
+//! selecting an article and push it inside to main Card
+
+//! when return false from update ,there is no render
+
+//!"FileName".defaultProps-----------------------------
+
+//!---------------------------------------------------------
+
+//!Component
